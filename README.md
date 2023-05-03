@@ -1,6 +1,6 @@
-#Livestock-Health-Monitoring
+# Livestock-Health-Monitoring
 
-#Problem Statement :
+# Problem Statement:
 
 
 Cattle plays a vital role in the agriculture industry and especially in dairy based products worldwide. Nowadays, cattle are suffering from various health problems, diseases, unpredictable killings and being surplus for maintaining a breeding stock. This can result in significant economic losses for farmers, as well as negative impacts on animal welfare.
